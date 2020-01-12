@@ -7,7 +7,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "The $(mob)Hunter$() is a flying monster that spawns in the $(thing)Midnight$(). It hunts $(mob)Nightstags$(), $(mob)Skulks$(), and players by flying overhead and swooping down to attack, dealing damage and inflicting $(thing)Torment$() on its target. Despite their size, $(mob)Hunters$() can pass through a single-block space unimpeded."
+			"text": "The $(mob)Hunter$() is a flying monster that spawns in the $(thing)Midnight$(). It hunts $(l:midnight_nightstag)$(mob)Nightstags$(), $(l:midnight_skulk)$(mob)Skulks$(), and players by flying overhead and swooping down to attack, dealing damage and inflicting $(thing)Torment$() on its target. Despite their size, $(mob)Hunters$() can pass through a single-block space unimpeded."
 		},
 		{
 			"type": "entity",
