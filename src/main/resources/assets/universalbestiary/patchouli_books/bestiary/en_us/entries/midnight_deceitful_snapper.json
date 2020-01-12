@@ -19,7 +19,7 @@
 			"type": "spotlight",
 			"item": "midnight:deceitful_snapper",
 			"link_recipe": true,
-			"text": "$(mob)Deceiftul Snappers$() drop themselves on death, which serve as a good food source while raw. Take care when eating a $(item)Deceitful Snapper$()! They come by their name honestly."
+			"text": "$(mob)Deceiftul Snappers$() drop themselves on death, which serve as a good food source while raw. Take care when eating a $(item)Deceitful Snapper$(), as consuming comes with a chance to be poisoned."
 		}
 	]
 }
