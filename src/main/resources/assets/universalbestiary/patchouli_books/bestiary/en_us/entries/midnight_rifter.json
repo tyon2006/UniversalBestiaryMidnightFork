@@ -16,7 +16,7 @@
 		},
 		{
 			"type": "text",
-			"text": "When spawned from a $(thing)Rift$() in the $(thing)Overworld, a $(mob)Rifter$() will seek out the nearest passive animal or player and grab them, $(thing)Stunning$() the target and inflicting a potent $(thing)Slowness$() effect as it then drags them to the $(thing)Rift$() that spawned them, transporting them to the $(thing)Midnight$(). Do not turn your back on a $(mob)Rifter$() that is pursuing you. It can teleport when not observed. $(mob)Rifters$() spawned from a $(thing)Rift$() cannot survive in the $(thing)Overworld$() for long, and will perish if their rift closes before they are able to return."
+			"text": "When spawned from a $(thing)Rift$() in the $(thing)Overworld, a $(mob)Rifter$() will seek out the nearest passive animal or player and grab them, $(thing)Stunning$() the target and inflicting a potent $(thing)Slowness$() effect as it then drags them to the $(thing)Rift$() that spawned them, transporting them to the $(thing)Midnight$(). It can teleport when not observed by the player. $(mob)Rifters$() spawned from a $(thing)Rift$() cannot survive in the $(thing)Overworld$() for long, and will perish if their rift closes before they are able to return."
 		}
 	]
 }
