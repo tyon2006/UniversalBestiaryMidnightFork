@@ -1,7 +1,7 @@
 {
 	"name": "Skulk",
 	"icon": "minecraft:spawn_egg{EntityTag:{id:'midnight:skulk'}}",
-	"category": "monsters",
+	"category": "animals",
 	"flag": "universalbestiary:entity:midnight:skulk",
 	"advancement": "universalbestiary:midnight_skulk",
 	"pages": [
